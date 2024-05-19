@@ -1,0 +1,13 @@
+.form-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px; /* Adjust as needed for spacing between forms */
+  border: 1px solid #ccc; /* Border around the forms */
+  padding: 5px; /* Padding inside the border */
+}
+
+.form-item {
+  background-color: #f0f0f0; /* Background color for each form item */
+  padding: 2px 5px; /* Padding around each form item */
+  border-radius: 3px; /* Rounded corners for each form item */
+}
